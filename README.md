@@ -1,7 +1,5 @@
 # Sandbox
 
-## Introduction
-
 This repository serves as a centralized collection of small, standalone projects. It is utilized as a development environment for prototyping, experimentation, and skills practice before undertaking larger-scale projects.
 
 
