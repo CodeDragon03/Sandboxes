@@ -39,4 +39,5 @@ The following is a list of all projects contained within this repository.
 
 | Branch Name             | Project Description                              | Technologies Used       |
 | ----------------------- | ------------------------------------------------ | ----------------------- |
-|         |               |           |
+|`Website`| A basic static web page for revising html and css| Javascript, HTML, CSS |
+|`Covalence`| A mini project to learnig a feature specific thing for my Covalence project i.e. latex compiler implementation | tex live, docker, etc|
